@@ -1,6 +1,5 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Prescription Drug Event (PDE) processing
+title: CMS Prescription Drug Event (PDE) processing
+description: Prescription Drug Event (PDE) files processing
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
