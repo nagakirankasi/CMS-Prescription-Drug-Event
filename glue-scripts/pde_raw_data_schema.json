@@ -1,0 +1,8 @@
+{
+    "fields": [
+      { "name": "PDE_ID", "type": "string", "position": 1 },
+      { "name": "Drug_Name", "type": "string", "position": 5 },
+      { "name": "Claim_Amount", "type": "decimal", "position": 10 }
+    ]
+  }
+  
